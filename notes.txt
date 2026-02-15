@@ -1,1 +1,1 @@
-This change is from feature branch.
+Learning Git is fun - feature branch edit
